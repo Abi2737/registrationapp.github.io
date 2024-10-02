@@ -89074,7 +89074,7 @@ A.np()
 A.np()
 e=A.a2(102,0,0,0)
 d=B.d.af(76.5)
-return new A.D5(B.Td,"Flutter Demo",A.xP(c,b,A.a([new A.kn(a.a.b,a0.a.c,a1.a.d,a2.a.e,B.bz,B.fS,B.l,B.bz,B.k,B.bA,8,s,new A.aF(16,12,16,12),r,q,B.IJ,B.np,8,B.fS,B.y,B.Am,B.Ai,B.Ai,B.F,B.n3,B.n3,B.G8,B.G0,B.F,p.a.Q,B.dz,B.ch,B.k,B.dz,o.a.b,B.iv,B.ZQ,B.Zo,m,B.ch,B.dz,B.RG,B.ch,B.ch,B.y,B.k,B.k,B.l,n.a.ax,k.a.ay,B.GF,j.a.at,B.dz,B.k,B.bA,B.Es,B.F,B.ch,B.l,B.bz,B.dz,B.jc,B.jc,B.Ge,B.H2,B.mD,B.jc,B.Ea,B.Fs,B.k,B.bz,B.bA,new A.aF(16,16,16,16),B.iv,B.iv,B.k,i.a.at,B.bA,h.a.at,g.a.b,f.a.b,B.IM,B.ID,B.IL,B.IB,B.IC,B.IE,B.h8,B.IK,B.h8,10,12,20,16,24,32,48,12,8,4,20,B.XO,B.XM,B.XP,B.XL,B.XJ,B.XN,B.XI,B.XK),new A.k8(B.bz,B.DV,e,1.5,B.aq,B.lp,A.a2(d,255,82,82),B.ki,2,B.aq,B.lp,B.Ah,B.Ah,A.a2(d,105,240,174),B.uE,2,B.lp,B.Hk,B.a_K,B.DZ,16,B.y,B.bz,B.ch,B.uE,B.ki,B.y,B.Ak,B.Ak)],t.Kg),!0),!1,c)}}
+return new A.D5(B.Td,"\xcenscriere UpsideDown",A.xP(c,b,A.a([new A.kn(a.a.b,a0.a.c,a1.a.d,a2.a.e,B.bz,B.fS,B.l,B.bz,B.k,B.bA,8,s,new A.aF(16,12,16,12),r,q,B.IJ,B.np,8,B.fS,B.y,B.Am,B.Ai,B.Ai,B.F,B.n3,B.n3,B.G8,B.G0,B.F,p.a.Q,B.dz,B.ch,B.k,B.dz,o.a.b,B.iv,B.ZQ,B.Zo,m,B.ch,B.dz,B.RG,B.ch,B.ch,B.y,B.k,B.k,B.l,n.a.ax,k.a.ay,B.GF,j.a.at,B.dz,B.k,B.bA,B.Es,B.F,B.ch,B.l,B.bz,B.dz,B.jc,B.jc,B.Ge,B.H2,B.mD,B.jc,B.Ea,B.Fs,B.k,B.bz,B.bA,new A.aF(16,16,16,16),B.iv,B.iv,B.k,i.a.at,B.bA,h.a.at,g.a.b,f.a.b,B.IM,B.ID,B.IL,B.IB,B.IC,B.IE,B.h8,B.IK,B.h8,10,12,20,16,24,32,48,12,8,4,20,B.XO,B.XM,B.XP,B.XL,B.XJ,B.XN,B.XI,B.XK),new A.k8(B.bz,B.DV,e,1.5,B.aq,B.lp,A.a2(d,255,82,82),B.ki,2,B.aq,B.lp,B.Ah,B.Ah,A.a2(d,105,240,174),B.uE,2,B.lp,B.Hk,B.a_K,B.DZ,16,B.y,B.bz,B.ch,B.uE,B.ki,B.y,B.Ak,B.Ak)],t.Kg),!0),!1,c)}}
 A.te.prototype={
 j2(){var s=this
 return A.aw(["id",s.a,"attendee",s.b,"attendeeEmail",s.c,"workshopId",s.d,"onWaitingWorkshopList",s.e,"timestamp",s.f],t.N,t.z)},
@@ -89569,7 +89569,7 @@ if(r.x)s=A.aGY(B.dy,B.Hm,B.n0)
 else s=r.y?r.agH():r.a6B()
 return A.wn(B.ae,q,A.aNC(A.eX(A.a([p,B.aR,new A.iK(B.m4,new A.ct(B.jB,s,q),q)],t.p),B.P,B.Y,B.au)),B.C,q,0,q,q,q,q,B.f3)},
 agH(){var s=null
-return A.eX(A.a([A.c4("\xcenregistrarea nu a fost g\u0103sit\u0103!",s,s,s,s,A.fX().$2$fontSize$fontWeight(24,B.ak),s,s),B.d6,A.c4("Pentru asisten\u021b\u0103 te rug\u0103m s\u0103 ne contactezi la adresa de e-mail:",s,s,s,s,A.fX().$1$fontSize(16),B.bb,s),B.fl,new A.F4("4ndreiene@gmail.com",s,s,A.b9l().$2$decoration$fontSize(B.is,16),s,B.bb,s,s,!1,s,!1,2,s,s,s,B.cC,B.ce,!0,s,B.aP,s,new A.azj(this),s,s,s,s,s,A.b9y(),s,s),B.il,A.aL0(!1,B.a1Z,s,s,s,s,s,s,new A.azk(this),s,A.BJ(s,s,B.dy,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s))],t.p),B.P,B.bZ,B.au)},
+return A.eX(A.a([A.c4("\xcenregistrarea nu a fost g\u0103sit\u0103!",s,s,s,s,A.fX().$2$fontSize$fontWeight(24,B.ak),s,s),B.d6,A.c4("Pentru asisten\u021b\u0103 te rug\u0103m s\u0103 ne contactezi la adresa de e-mail:",s,s,s,s,A.fX().$1$fontSize(16),B.bb,s),B.fl,new A.F4("abicodelabs@gmail.com",s,s,A.b9l().$2$decoration$fontSize(B.is,16),s,B.bb,s,s,!1,s,!1,2,s,s,s,B.cC,B.ce,!0,s,B.aP,s,new A.azj(this),s,s,s,s,s,A.b9y(),s,s),B.il,A.aL0(!1,B.a1Z,s,s,s,s,s,s,new A.azk(this),s,A.BJ(s,s,B.dy,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s))],t.p),B.P,B.bZ,B.au)},
 Nd(a){var s,r,q,p,o=this,n=null,m=a?B.k:n,l=t.p,k=A.a([],l)
 if(a)k.push(B.aR)
 k.push(A.c4("E\u0219ti \xeenregistrat!",n,n,n,n,A.fX().$2$fontSize$fontWeight(24,B.ak),n,n))
@@ -89699,7 +89699,7 @@ p=p==null?null:p.a
 return new A.p1(r,q,p,!1,!1,!0,B.a3E,s.a.f,null)},
 $S:115}
 A.azj.prototype={
-$0(){return this.a.u1("4ndreiene@gmail.com")},
+$0(){return this.a.u1("abicodelabs@gmail.com")},
 $S:0}
 A.azk.prototype={
 $0(){var s=this.a.c
