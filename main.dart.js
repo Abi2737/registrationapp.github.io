@@ -89574,7 +89574,7 @@ Nd(a){var s,r,q,p,o=this,n=null,m=a?B.k:n,l=t.p,k=A.a([],l)
 if(a)k.push(B.aR)
 k.push(A.c4("E\u0219ti \xeenregistrat!",n,n,n,n,A.fX().$2$fontSize$fontWeight(24,B.ak),n,n))
 k.push(B.d6)
-k.push(A.c4("Prezint\u0103 codul QR de mai jos pentru accesul la eveniment.",n,n,n,n,A.fX().$1$fontSize(16),B.bb,n))
+k.push(A.c4("Prezint\u0103 codul QR de mai jos pentru accesul la evenimentul: UpsideDown - Dialoguri despre sanatate mintala",n,n,n,n,A.fX().$1$fontSize(16),B.bb,n))
 k.push(B.aR)
 s=o.d
 s===$&&A.b()
