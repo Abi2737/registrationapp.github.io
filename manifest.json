@@ -1,11 +1,11 @@
 {
-    "name": "registration_app",
-    "short_name": "registration_app",
+    "name": "Înscriere UpsideDown",
+    "short_name": "UpsideDown",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Înscrieri pentru evenimentul UpsideDown - Dialoguri despre sanatate mintala",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
